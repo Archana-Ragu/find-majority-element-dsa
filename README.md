@@ -5,8 +5,4 @@
   
   *DSA (Data Structure and Algorithm)*
   # :book: :pencil: :notebook: 🖋️
-  1
-  2
-  
-  
   
